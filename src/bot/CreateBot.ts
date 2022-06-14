@@ -155,6 +155,7 @@ class Bot {
             gale1 = gale1 + counts.countGale1
             gale2 = gale2 + counts.countGale2
         })
+        
         let totalWin = green + greenWhite + gale1 + gale2
         let totalSent = totalWin + red
         let percentageWin = Math.round((red * 100) / totalSent)
