@@ -158,16 +158,3 @@ _Para que o BOT venha enviar mensagem no telegram, você precisa enviar uma requ
 2. _Você precisa **COLETAR** a última cor que saiu na [Blaze][blaze]_
 
 <p align="right"><a href="#top">top</a></p>
-
-## Contato
-
-Telegram: __@jocimarjsc__
-
-
-
----
-⌨️ com ❤️ por [Jocimar Costa][GitHub] 😊
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[GitHub]: https://github.com/jocimarjsc
-[blaze]: https://blaze.com/r/KOGDR9
-[mysql]: https://www.mysql.com/downloads/
